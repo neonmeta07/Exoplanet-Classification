@@ -3,9 +3,6 @@ This project classifies exoplanet candidates from NASA’s Kepler mission as con
 
 ---
 
-
----
-
 ## 📌 Objective
 
 Classify each planet candidate as either:
